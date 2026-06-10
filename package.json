@@ -16,5 +16,8 @@
     "url": "https://github.com/Dipak1124/Foodies-Fahhh/issues"
   },
   "homepage": "https://github.com/Dipak1124/Foodies-Fahhh#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "vite": "^8.0.16"
+  }
 }
